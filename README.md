@@ -12,7 +12,7 @@ Standard setup
 
 1.  In Terminal, go to your projects directory and clone the project:
 
-        git clone git@github.com:margOnline/leaderboard.git
+        git clone git@github.com:margOnline/weather_api.git
 
 2.  Install gem dependencies:
 
